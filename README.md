@@ -23,7 +23,7 @@ This plug-in is compatible with remote controllers (HID devices that send out th
 
 See also the video below.
 
-[![](http://img.youtube.com/vi/wF3f3BWbe4M/0.jpg)](http://www.youtube.com/watch?v=wF3f3BWbe4M "")
+[![](https://img.youtube.com/vi/5kFv-7Cc3h8/0.jpg)](https://www.youtube.com/watch?v=5kFv-7Cc3h8)
 
 
 ## Tilt operation & Changeable setting 

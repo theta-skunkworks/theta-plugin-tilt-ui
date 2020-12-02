@@ -4,24 +4,24 @@ Japanese page [here](README_jp.md)
 
 ## Overview
 
-With this THETA plug-in, you can change the shooting settings by combining THETA's posture (tilt) and button operations.
+With this THETA plug-in, you can change the shooting settings by combining THETA's position (tilt) and button operations.
 Most shooting settings can be done without a smartphone.
 
-The items that can be operated with this plug-in are as follows.
+The settings that can be operated with this plug-in are as follows.
 
-- Switching shooting mode (still image/video)
-- Switching the exposure mode (Auto/Av/Tv/Iso/Manual)
-- Shooting settings for each exposure mode <br> (Aperture, shutter speed, ISO sensitivity, white balance, Option setting in still image auto mode [NR/DR Comp/HDR/ Hh HDR])
-- Switching the white balance specification method (preset/color temperature)
-- Switching file storage format (JPEG / RAW +) when shooting still images
-- Switching self-timer on/off 
-- Switching continuous shooting (Off/Time Shift/Interval/Interval Composite)
+- Change shooting mode (still image/video)
+- Change the exposure mode (Auto/Av/Tv/Iso/Manual)
+- Change shooting settings for each exposure mode<br>(Aperture, shutter speed, ISO sensitivity, white balance, Option setting in still image auto mode [NR/DR Comp/HDR/ Hh HDR]
+- Change the white balance specification method (preset/color temperature)
+- Change file format (JPEG / RAW +) when shooting still images
+- Change self-timer on/off
+- Change continuous shooting mode (Off/Time Shift/Interval/Interval Composite)
 
-The settings made with this plugin will be saved when the plugin is closed and will be restored when the plugin is started again.
+When you close the plug-in, the setting change made with the plug-in is saved and will be adopted when the plug-in is restarted.
 
 This plug-in is compatible with remote controllers (HID devices that send out the "Vol +" key code).
 
-See also the video below.
+Also see the video below.
 
 [![](https://img.youtube.com/vi/5kFv-7Cc3h8/0.jpg)](https://www.youtube.com/watch?v=5kFv-7Cc3h8)
 
